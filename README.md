@@ -24,3 +24,5 @@ A página deve ter campos para inserção do texto a ser criptografado ou descri
 ## Licença
 The MIT License ([Desenvolvedor](https://github.com/flavio-alexandre))
 Copyright ©️ 2023 
+
+<img src="https://i.imgur.com/SRl0Kdb.png" width="40%">
